@@ -2,8 +2,8 @@ require('dotenv').config();
 
 module.exports = {
     // Bot Identity
-    BOT_NAME: process.env.BOT_NAME || 'ᴍɪɴɪ ɪɴᴄᴏɴɴᴜ xᴅ',
-    OWNER_NUMBER: process.env.OWNER_NUMBER || '554488138425',
+    BOT_NAME: process.env.BOT_NAME || 'Crazy-Mini-Bot',
+    OWNER_NUMBER: process.env.OWNER_NUMBER || '24105730123',
     VERSION: process.env.VERSION || '1.0.0',
     
     // Bot Settings
